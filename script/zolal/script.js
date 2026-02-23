@@ -79,3 +79,12 @@ document.getElementById("Andishe").addEventListener("click",()=>{
     src= audio_safari
     
 });
+
+document.getElementById("cfile").addEventListener("click", ()=>{
+    document.getElementById("file").click()
+})
+
+document.getElementById("file").addEventListener("change", () =>{
+    
+    document.getElementById("name").innerText = document.getElementById("file").value
+})
