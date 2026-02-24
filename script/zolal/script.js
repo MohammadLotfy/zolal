@@ -1,13 +1,4 @@
-const teachers= {
-    Safari : {"استاد" : "حجت الاسلام صفاریان", "تحصیلات" : "تست لیسانس", "سن" : "34", "اصالت" : "اصفهان"},
-    Taheri :  {"name" : "حجت الاسلام طاهری", "education" : "تست لیسانس", "age" : "34", "city" : "اصفهان"}
-}
-const audio_safari = [
-    "https://drive.google.com/file/d/1h94TeG_m6vUG0Dxw4uh7WSryStSQR2xD/view?usp=sharing",
-]
-const audio_tahri = [
- "src","srr","seev","hhuuu"
-]
+
 let src = audio_safari
 default_teacher = "Safari"
 function informatino(dick) {

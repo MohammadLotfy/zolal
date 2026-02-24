@@ -35,10 +35,11 @@ header h1{
 }
 #teacher h5{
     font-size: 11px;
-    width: 100px;
+    width: 102px;
 }
 .audioDiv{
     flex-direction: column;
+    gap: 0px;
 }
 button{
     font-size: x-small;
